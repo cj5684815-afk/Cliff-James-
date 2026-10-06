@@ -1,0 +1,8 @@
+{
+  "name": "Cliff pulsemusic.ke",
+  "description": "Offline music player with local audio storage, custom playlist management, audio visualizer, and rich playback controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
